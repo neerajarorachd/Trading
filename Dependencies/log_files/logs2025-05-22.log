@@ -1,0 +1,283 @@
+INFO:2025-05-22 11:12:16,543:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:12:16,543:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:12:56,892:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:13:00,648:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:16:18,068:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:16:18,069:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:16:55,819:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:16:56,949:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:28:52,287:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:28:52,287:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:30:45,678:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:30:45,678:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:31:04,780:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:31:05,930:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:32:37,293:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:32:37,294:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:33:09,791:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:33:09,792:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:35:29,376:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:35:29,377:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:36:03,331:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:36:04,486:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:41:07,031:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:41:07,031:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:41:18,718:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:41:19,854:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:47:21,729:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:47:21,730:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 11:47:36,765:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 11:47:37,893:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-22 11:51:21,077:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:51:21,077:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:51:31,976:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:51:31,976:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:51:39,320:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:51:39,321:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:51:47,023:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:51:47,023:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:51:54,332:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:51:54,332:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:01,859:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:01,859:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:09,690:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:09,690:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:17,107:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:17,107:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:24,505:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:24,505:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:31,905:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:31,905:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:39,400:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:39,400:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:46,852:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:46,852:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:52:54,252:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:52:54,253:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:01,834:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:01,834:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:09,328:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:09,329:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:16,828:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:16,828:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:24,187:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:24,187:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:31,721:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:31,721:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:39,360:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:39,361:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:46,879:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:46,879:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:53:54,208:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:53:54,208:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:01,756:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:01,756:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:12,886:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:12,886:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:20,323:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:20,323:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:27,714:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:27,715:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:37,310:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:37,311:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:42,719:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:42,719:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:48,113:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:48,114:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:53,434:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:53,435:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:54:58,857:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:54:58,857:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:04,164:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:04,164:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:09,543:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:09,544:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:15,120:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:15,120:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:20,487:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:20,487:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:25,787:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:25,787:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:31,113:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:31,113:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:36,449:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:36,449:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:41,810:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:41,811:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:47,091:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:47,092:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:52,472:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:52,472:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:55:57,711:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:55:57,711:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:03,098:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:03,098:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:08,440:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:08,441:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:13,787:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:13,787:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:19,100:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:19,100:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:24,429:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:24,429:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:29,729:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:29,729:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:35,167:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:35,167:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:40,397:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:40,398:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:45,787:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:45,787:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:51,350:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:51,350:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:56:56,724:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:56:56,724:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:02,046:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:02,046:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:07,465:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:07,465:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:13,091:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:13,092:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:18,558:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:18,558:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:23,902:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:23,902:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:29,232:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:29,233:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:34,561:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:34,561:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:39,909:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:39,909:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:45,178:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:45,178:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:50,592:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:50,592:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:57:56,628:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:57:56,628:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:02,360:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:02,360:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:08,271:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:08,271:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:14,071:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:14,071:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:19,885:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:19,885:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:25,639:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:25,639:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:31,191:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:31,191:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:36,883:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:36,883:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:42,712:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:42,712:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:48,332:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:48,332:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:54,173:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:54,173:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:58:59,775:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:58:59,776:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 11:59:05,476:MainThread:Dhan.py  started system
+INFO:2025-05-22 11:59:05,477:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 12:15:24,728:MainThread:Exception in dhanhq>>get_order_by_id : ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+INFO:2025-05-22 13:04:07,632:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:04:07,632:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:04:48,888:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:04:48,889:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:07:28,814:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:07:28,814:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:08:24,800:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:08:24,801:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:12:45,770:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:12:45,770:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:15:16,371:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:15:16,372:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:15:35,799:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:15:35,800:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:15:53,160:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:15:53,161:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:17:07,727:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:17:07,728:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:19:17,030:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:19:17,030:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:20:21,753:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:20:21,754:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:21:50,062:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:21:50,063:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:00,509:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:00,509:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:17,465:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:17,465:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:27,211:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:27,211:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:36,988:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:36,988:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:46,650:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:46,651:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:22:56,060:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:22:56,060:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:23:05,464:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:23:05,464:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:24:27,078:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:24:27,079:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 13:25:35,672:MainThread:Dhan.py  started system
+INFO:2025-05-22 13:25:35,673:MainThread:STARTED THE PROGRAM
+INFO:2025-05-22 15:01:38,043:MainThread:Dhan.py  started system
+INFO:2025-05-22 15:01:38,043:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-22 15:06:40,732:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-22 15:06:43,497:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}

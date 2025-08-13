@@ -1,0 +1,76 @@
+INFO:2025-05-29 11:23:03,534:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:23:03,535:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:24:41,858:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:24:41,860:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:25:46,329:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:25:46,330:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:26:59,848:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:26:59,849:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:31:21,797:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:31:21,797:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:32:23,175:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:32:23,176:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 11:35:18,737:MainThread:Dhan.py  started system
+INFO:2025-05-29 11:35:18,737:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 13:58:47,569:MainThread:Dhan.py  started system
+INFO:2025-05-29 13:58:47,570:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 13:59:40,919:MainThread:Dhan.py  started system
+INFO:2025-05-29 13:59:40,919:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:00:05,249:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:00:05,249:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:01:29,885:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:01:29,885:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:03:08,313:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:03:08,314:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:03:32,873:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:03:32,873:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:04:53,145:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:04:53,145:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:07:33,591:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:07:33,591:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:09:57,713:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:09:57,714:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:11:51,402:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:11:51,402:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:25:50,744:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:25:50,745:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-29 14:26:11,544:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-29 14:26:12,703:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-29 14:26:45,964:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:26:45,964:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:28:37,174:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:28:37,175:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:29:32,672:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:29:32,672:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:29:56,359:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:29:56,359:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 14:31:05,914:MainThread:Dhan.py  started system
+INFO:2025-05-29 14:31:05,914:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:38:20,839:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:38:20,840:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:38:28,474:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:38:28,474:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:38:42,123:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:38:42,123:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:43:15,957:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:43:15,957:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:46:32,135:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:46:32,135:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:48:54,914:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:48:54,914:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:51:05,833:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:51:05,833:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:52:13,298:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:52:13,298:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:52:43,642:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:52:43,643:MainThread:STARTED THE PROGRAM
+INFO:2025-05-29 16:54:33,997:MainThread:Dhan.py  started system
+INFO:2025-05-29 16:54:33,997:MainThread:STARTED THE PROGRAM

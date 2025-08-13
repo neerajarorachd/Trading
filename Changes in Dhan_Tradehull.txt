@@ -1,0 +1,1 @@
+sleep time reduced from 2 sec to 1 sec in get_intraday_data and get_historical_data

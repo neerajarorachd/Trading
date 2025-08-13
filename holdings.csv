@@ -1,0 +1,4 @@
+,dhanClientId,tradingSymbol,securityId,positionType,exchangeSegment,productType,buyAvg,costPrice,buyQty,sellAvg,sellQty,netQty,realizedProfit,unrealizedProfit,rbiReferenceRate,multiplier,carryForwardBuyQty,carryForwardSellQty,carryForwardBuyValue,carryForwardSellValue,dayBuyQty,daySellQty,dayBuyValue,daySellValue,drvExpiryDate,drvOptionType,drvStrikePrice,crossCurrency
+0,1106451789,HINDCOPPER,17939,CLOSED,NSE_EQ,INTRADAY,198.83,198.83,1,199.41,1,0,0.58,0.0,1.0,1,0,0,0.0,0.0,1,1,198.83,199.41,0001-01-01,NA,0.0,False
+1,1106451789,ONEPOINT,9939,CLOSED,NSE_EQ,INTRADAY,56.81,56.81,2,57.27,2,0,0.92,0.0,1.0,1,0,0,0.0,0.0,2,2,113.62,114.54,0001-01-01,NA,0.0,False
+2,1106451789,NATIONALUM,6364,CLOSED,NSE_EQ,INTRADAY,146.51909,146.79272,11,146.79272,11,0,3.01,0.0,1.0,1,0,0,0.0,0.0,11,11,1611.71,1614.72,0001-01-01,NA,0.0,False

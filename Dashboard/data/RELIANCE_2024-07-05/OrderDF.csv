@@ -1,0 +1,4 @@
+Date,Strategy,Watchlist,SYMBOL,OrderID,OrderPrice,BULLISH,TOTALVALUE,OrderInQty,SLPrice,SLOrderID,TargetPrice,TargetOrderID,OrderExpenses,OrderClosingType,FinalExecutedPrice,PLStatus,TradeStatus,TradeClosingSource,Exchange,OrderOutQty,BalanceQty,TradeType,CallType,OrderStartTime,OrderEndTime,TimeTaken,TradeStatusOnPnL,Monitoring,SLPricePerc,SLTargetPerc,PrimaryCandleDuration,TotalValueBasis,OrderDirection,Comments
+2024-07-05,1,,RELIANCE,ORD123,2840.50,True,3,1,2830.00,,2865.00,,12.0,,2855.50,15.00,Closed,TargetHit,NSE,1,0,Scalping,Auto,09:16:00,09:30:00,14,Success,Yes,0.35,0.85,1m,LTP,BUY,
+2024-07-05,1,,RELIANCE,ORD124,2855.00,True,4,1,2840.00,,2875.00,,12.5,,2835.00,-20.00,Closed,SLHit,NSE,1,0,Scalping,Auto,09:35:00,09:50:00,15,Failure,Yes,0.53,0.70,1m,LTP,BUY,
+2024-07-05,2,,RELIANCE,ORD125,2865.00,False,2,1,2875.00,,2845.00,,11.5,,2850.00,-15.00,Closed,TargetHit,NSE,1,0,Scalping,Auto,10:05:00,10:15:00,10,Failure,No,0.40,0.70,1m,LTP,SELL,

@@ -1,0 +1,107 @@
+INFO:2025-06-16 10:18:32,012:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:18:32,013:MainThread:STARTED THE PROGRAM
+ERROR:2025-06-16 10:18:48,742:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-901', 'error_type': 'Invalid_Authentication', 'error_message': 'Client ID or user generated access token is invalid or expired.'}, 'data': {'errorType': 'Invalid_Authentication', 'errorCode': 'DH-901', 'errorMessage': 'Client ID or user generated access token is invalid or expired.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 570, in get_intraday_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-901', 'error_type': 'Invalid_Authentication', 'error_message': 'Client ID or user generated access token is invalid or expired.'}, 'data': {'errorType': 'Invalid_Authentication', 'errorCode': 'DH-901', 'errorMessage': 'Client ID or user generated access token is invalid or expired.'}}
+INFO:2025-06-16 10:20:17,342:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:20:17,343:MainThread:STARTED THE PROGRAM
+ERROR:2025-06-16 10:20:21,372:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-901', 'error_type': 'Invalid_Authentication', 'error_message': 'Client ID or user generated access token is invalid or expired.'}, 'data': {'errorType': 'Invalid_Authentication', 'errorCode': 'DH-901', 'errorMessage': 'Client ID or user generated access token is invalid or expired.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 570, in get_intraday_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-901', 'error_type': 'Invalid_Authentication', 'error_message': 'Client ID or user generated access token is invalid or expired.'}, 'data': {'errorType': 'Invalid_Authentication', 'errorCode': 'DH-901', 'errorMessage': 'Client ID or user generated access token is invalid or expired.'}}
+INFO:2025-06-16 10:21:23,370:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:21:23,371:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 10:25:49,590:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:25:49,590:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 10:27:14,996:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:27:14,997:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 10:28:22,190:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:28:22,190:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 10:49:07,650:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:49:07,651:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 10:51:29,217:MainThread:Dhan.py  started system
+INFO:2025-06-16 10:51:29,217:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:17:36,137:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:17:36,138:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:19:32,490:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:19:32,491:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:22:40,290:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:22:40,290:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:23:32,200:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:23:32,201:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:26:58,521:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:26:58,521:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 11:28:52,590:MainThread:Dhan.py  started system
+INFO:2025-06-16 11:28:52,590:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:41:38,028:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:41:38,029:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:50:36,766:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:50:36,767:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:54:45,843:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:54:45,843:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:56:01,421:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:56:01,422:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:57:00,276:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:57:00,277:MainThread:STARTED THE PROGRAM
+ERROR:2025-06-16 13:57:01,381:MainThread:Exception in Getting OHLC data as Check the Tradingsymbol or Exchange
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 549, in get_intraday_data
+    raise Exception("Check the Tradingsymbol or Exchange")
+Exception: Check the Tradingsymbol or Exchange
+INFO:2025-06-16 13:57:42,695:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:57:42,696:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 13:59:51,939:MainThread:Dhan.py  started system
+INFO:2025-06-16 13:59:51,940:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:02:09,884:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:02:09,885:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:07:51,986:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:07:51,986:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:13:58,249:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:13:58,250:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:17:36,460:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:17:36,461:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:18:49,716:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:18:49,716:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:21:40,998:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:21:40,999:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:22:23,957:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:22:23,958:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:23:48,247:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:23:48,247:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:30:28,661:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:30:28,661:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:32:15,464:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:32:15,464:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:36:14,542:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:36:14,542:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:39:12,006:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:39:12,006:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:42:23,785:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:42:23,785:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:43:40,851:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:43:40,851:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:49:23,356:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:49:23,357:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:50:45,534:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:50:45,534:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 14:52:40,188:MainThread:Dhan.py  started system
+INFO:2025-06-16 14:52:40,188:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:01:03,637:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:01:03,637:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:04:16,437:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:04:16,438:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:06:12,184:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:06:12,185:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:33:19,643:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:33:19,643:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:34:52,825:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:34:52,826:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:35:29,008:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:35:29,009:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:36:11,091:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:36:11,092:MainThread:STARTED THE PROGRAM
+INFO:2025-06-16 15:36:48,385:MainThread:Dhan.py  started system
+INFO:2025-06-16 15:36:48,386:MainThread:STARTED THE PROGRAM

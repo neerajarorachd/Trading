@@ -1,0 +1,136 @@
+INFO:2025-05-30 09:26:10,395:MainThread:Dhan.py  started system
+INFO:2025-05-30 09:26:10,396:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 09:28:44,455:MainThread:Dhan.py  started system
+INFO:2025-05-30 09:28:44,456:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-30 09:30:07,593:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+ERROR:2025-05-30 09:30:08,737:MainThread:Exception in Getting OHLC data as {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 508, in get_historical_data
+    raise Exception(ohlc)
+Exception: {'status': 'failure', 'remarks': {'error_code': 'DH-905', 'error_type': 'Input_Exception', 'error_message': 'Missing required fields, bad values for parameters etc.'}, 'data': {'errorType': 'Input_Exception', 'errorCode': 'DH-905', 'errorMessage': 'Missing required fields, bad values for parameters etc.'}}
+INFO:2025-05-30 09:33:04,907:MainThread:Dhan.py  started system
+INFO:2025-05-30 09:33:04,907:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:14:16,847:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:14:16,847:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:28:15,853:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:28:15,853:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:29:12,898:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:29:12,898:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:30:15,450:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:30:15,450:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:31:35,569:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:31:35,570:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:37:25,544:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:37:25,544:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:39:41,556:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:39:41,557:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:39:54,719:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:39:54,719:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:43:16,948:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:43:16,949:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:46:45,855:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:46:45,855:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:49:49,278:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:49:49,278:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:56:16,629:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:56:16,630:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:57:09,532:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:57:09,532:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 11:58:02,782:MainThread:Dhan.py  started system
+INFO:2025-05-30 11:58:02,782:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 12:02:27,783:MainThread:Dhan.py  started system
+INFO:2025-05-30 12:02:27,784:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 12:41:23,546:MainThread:Dhan.py  started system
+INFO:2025-05-30 12:41:23,547:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 12:46:07,939:MainThread:Dhan.py  started system
+INFO:2025-05-30 12:46:07,940:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-30 12:51:09,734:MainThread:Exception in Getting OHLC data as 'Exchange' object has no attribute 'upper'
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 517, in get_intraday_data
+    exchange = exchange.upper()
+AttributeError: 'Exchange' object has no attribute 'upper'
+INFO:2025-05-30 13:39:27,088:MainThread:Dhan.py  started system
+INFO:2025-05-30 13:39:27,088:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-30 13:42:40,634:MainThread:Exception in Getting OHLC data as 'Exchange' object has no attribute 'upper'
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 517, in get_intraday_data
+    exchange = exchange.upper()
+AttributeError: 'Exchange' object has no attribute 'upper'
+INFO:2025-05-30 13:43:55,534:MainThread:Dhan.py  started system
+INFO:2025-05-30 13:43:55,535:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 13:44:02,829:MainThread:Dhan.py  started system
+INFO:2025-05-30 13:44:02,829:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 13:50:51,379:MainThread:Dhan.py  started system
+INFO:2025-05-30 13:50:51,379:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:06:59,522:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:06:59,522:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:10:01,183:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:10:01,183:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:14:31,456:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:14:31,456:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:15:35,639:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:15:35,639:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:17:42,878:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:17:42,879:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:18:13,715:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:18:13,715:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:18:50,491:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:18:50,492:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:19:32,674:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:19:32,674:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:19:45,686:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:19:45,686:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:37:48,451:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:37:48,452:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:38:41,488:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:38:41,488:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:40:14,080:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:40:14,081:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:42:42,746:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:42:42,747:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:44:26,591:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:44:26,591:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:46:49,997:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:46:49,997:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:48:47,563:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:48:47,563:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:49:55,083:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:49:55,084:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:54:12,381:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:54:12,382:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 14:55:00,836:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:55:03,714:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-30 14:55:04,782:MainThread:Exception in Getting OHLC data as 'int' object has no attribute 'upper'
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 517, in get_intraday_data
+    exchange = exchange.upper()
+AttributeError: 'int' object has no attribute 'upper'
+INFO:2025-05-30 14:57:58,612:MainThread:Dhan.py  started system
+INFO:2025-05-30 14:57:58,612:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:00:54,447:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:00:54,447:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:08:26,748:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:08:26,749:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:08:38,973:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:08:38,973:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:09:43,531:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:09:43,531:MainThread:STARTED THE PROGRAM
+ERROR:2025-05-30 15:09:44,614:MainThread:Exception in Getting OHLC data as 'Exchange' object has no attribute 'upper'
+Traceback (most recent call last):
+  File "d:\AI Trading\VS Project\Trading\Dhan_Tradehull.py", line 517, in get_intraday_data
+    exchange = exchange.upper()
+AttributeError: 'Exchange' object has no attribute 'upper'
+INFO:2025-05-30 15:16:20,819:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:16:20,819:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:21:20,427:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:21:20,427:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:24:39,197:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:24:39,198:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:26:02,986:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:26:02,986:MainThread:STARTED THE PROGRAM
+INFO:2025-05-30 15:28:02,992:MainThread:Dhan.py  started system
+INFO:2025-05-30 15:28:02,992:MainThread:STARTED THE PROGRAM

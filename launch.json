@@ -1,0 +1,10 @@
+{
+    "name": "Attach to Child Script",
+    "type": "python",
+    "request": "attach",
+    "connect": {
+        "host": "localhost",
+        "port": 5678
+    },
+    "justMyCode": true
+}
